@@ -1,1 +1,14 @@
-# Gs_kadai_005
+# kadai_005
+
+## 課題内容（どんな作品か） 
+- localStorageとgeolocation APIとYoutube APIをつかって、クリックした地点のlocalityを取得しそれに関連するお祭りをYoutubeで検索する…というもの
+- 完成させました！
+
+## 工夫した点・こだわった点
+- youtubeのリストは写経で完成
+- BingMapからクリックしたらlocalityを取得する方法、あれやこれやでなんとか取得しました。
+
+## 質問・疑問（あれば）
+
+## その他（感想、シェアしたいことなんでも）
+- APIのことしらべると、PHPとかPythonとかばかり出てきて混乱中・・・。JSとHTML・CSSの関係は分かったけれど、PHPやPythonの位置付けはよく分かっていません・・・
